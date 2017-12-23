@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication  //设置为springboot应用的运行朱磊
 public class Application {
 	//此处第一次修改
+	
+	//第二次修改
 	public static void main(String[] args) {
 		
 		/*启动springboot应用*/
